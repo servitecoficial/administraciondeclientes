@@ -31,6 +31,9 @@ document.querySelector("#submit").addEventListener("click", e => {
     *¿Cuál es tu dispositivo?*%0A
     ${dispositivo}%0A
 
+    *Provincia*%0A
+    ${empleado}%0A
+
     *Escribe el modelo de tu dispositivo*%0A
 		${modelo}%0A
 
